@@ -19,8 +19,11 @@
       "package": "com.farhadelyasi.myfirstapp"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    },
+  "favicon": "./assets/favicon.png"
+},
+"experiments": {
+  "baseUrl": "/MyFirstApp"
+},
     "plugins": [
       "expo-status-bar"
     ],
